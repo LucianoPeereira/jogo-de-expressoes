@@ -1,0 +1,5 @@
+opencv-python==4.5.*
+rmn==3.0.*
+numpy==1.21.*
+glob2==0.7
+PySimpleGUI==4.49.*

@@ -1,0 +1,4 @@
+opencv-python==4.5.*
+rmn==3.0.*
+numpy==1.21.*
+PySimpleGUI==4.49.*
