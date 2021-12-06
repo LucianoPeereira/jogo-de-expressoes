@@ -3,7 +3,7 @@ import PySimpleGUI as sg
 import utils.layouts as ui
 
 from utils.sounds import Sounds
-from Dao import Aluno
+from utils.Dao import Aluno
 
 janelas = ui.Janelas()
 sons = Sounds()

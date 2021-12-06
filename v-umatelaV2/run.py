@@ -8,7 +8,7 @@ import utils.functions as fc
 from utils.captures import Mestre, AlunoTEA 
 from utils.sounds import Sounds
 from rmn import RMN
-from Dao import Aluno
+from utils.Dao import Aluno
 
 func_alun = AlunoTEA()
 janelas = ui.Janelas()
