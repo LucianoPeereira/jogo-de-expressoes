@@ -1,6 +1,8 @@
 # jogo-de-expressoes
 Este é um jogo desenvolvido em Python para auxiliar crianças que possuem a condição do Transtorno do Espectro Autista (TEA) a identificarem tipos de expressões faciais diferentes.
 
+A versão mais atual do game está disponível na branch V 
+
 ## Project setup
 
 Create and activate a virtualenv:
